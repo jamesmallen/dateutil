@@ -5,3 +5,4 @@ pytest-cov >= 2.0.0
 freezegun
 coverage
 mock ; python_version < '3.0'
+mypy ; python_version >= '3.5'
